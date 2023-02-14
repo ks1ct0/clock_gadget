@@ -14,7 +14,7 @@ function App() {
 
     const [datetime, setDatetime] = useState(new Date());
     const [count, setCount] = useState(0);
-    const [position, setPosition] = useState<Position>(Position.BottomLeft);
+    const [position, setPosition] = useState<Position>(Position.BottomRight);
 
 
     useEffect(() => {

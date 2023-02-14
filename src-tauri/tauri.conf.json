@@ -61,7 +61,7 @@
         "width": 120,
         "decorations": false,
         "alwaysOnTop": true,
-        "skipTaskbar": true,
+        "skipTaskbar": false,
         "transparent": false
       }
     ]
